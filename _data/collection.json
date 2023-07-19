@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Sound In(ter)ventions" ] },
+    "summary": { "en": [ "The 2010 In(ter)ventions gathering, hosted at Banff Centre for Arts \u0026 Creativity. " ] },
+    "items": [
+    ]
+}
