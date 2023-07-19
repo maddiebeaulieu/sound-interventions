@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://maddiebeaulieu.github.io/sound-interventions/showtime-kickstart-1/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Showtime Kickstart 1" ] },
+    "homepage": [
+      {
+        "id": "showtime-kickstart",
+        "type": "Text",
+        "label": { "en": [ "Showtime Kickstart 1" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://maddiebeaulieu.github.io/sound-interventions/showtime-kickstart-1/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2779.0,
+        "items": [
+          {
+            "id": "https://maddiebeaulieu.github.io/sound-interventions/showtime-kickstart-1/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://maddiebeaulieu.github.io/sound-interventions/showtime-kickstart-1/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://app.box.com/s/v7kku0lmd92i3fe8roe0ytfdm8youghh",
+                    "duration": 2779.0
+                },
+                "target": "https://maddiebeaulieu.github.io/sound-interventions/showtime-kickstart-1/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
